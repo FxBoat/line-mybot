@@ -13,6 +13,9 @@ Node.js for develop chatbots using LINE Messaging API, and you can create a chat
 
 ## Installation
 
+- npm install
+- Create .env file from .env.example
+
 ## Getting started
 
 ## License
